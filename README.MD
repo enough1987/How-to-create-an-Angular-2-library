@@ -1,14 +1,16 @@
-#  emosewa
+#  angular2-library-emosewa
 
-## Installation
+## Create library
 
-To install this library, run:
+You need to clone this
 
 ```bash
-$ npm install emosewa --save
+$ npm clone https://github.com/enough1987/How-to-create-an-Angular-2-library.git
 ```
 
-## Development
+After cloning this you have library with sample services, directives, components
+
+make all you want.
 
 To generate all `*.js`, `*.js.map` and `*.d.ts` files:
 
@@ -16,10 +18,24 @@ To generate all `*.js`, `*.js.map` and `*.d.ts` files:
 $ npm run tsc
 ```
 
-To lint all `*.ts` files:
+publish to repository, done.
 
 ```bash
-$ npm run lint
+$ npm publish
+```
+
+## Installation
+
+To install this library, run:
+
+```bash
+$ npm i angular2-library-emosewa --save --no-optional
+```
+
+if it doesn't work you need to do -
+
+```bash
+$ npm install -g node-pre-gyp
 ```
 
 ## License
