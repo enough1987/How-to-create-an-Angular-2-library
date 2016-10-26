@@ -2,11 +2,8 @@
 
 ## Create library
 
-You need to clone this
+You need to clone this - https://github.com/enough1987/How-to-create-an-Angular-2-library.git
 
-```bash
-$ npm clone https://github.com/enough1987/How-to-create-an-Angular-2-library.git
-```
 in a folder -
 
 ```bash
