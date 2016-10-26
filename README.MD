@@ -7,6 +7,11 @@ You need to clone this
 ```bash
 $ npm clone https://github.com/enough1987/How-to-create-an-Angular-2-library.git
 ```
+in a folder -
+
+```bash
+$ npm install
+```
 
 After cloning this you have library with sample services, directives, components
 
